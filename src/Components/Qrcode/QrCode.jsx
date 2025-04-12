@@ -54,7 +54,7 @@ const QrCode = () => {
           <button className="download__btn" onClick={downloadQR}>Download QR Code</button>
         </div>
 
-        <p className="footer">Designed By <a href="">Inasync-io</a></p>
+        <p className="footer">Designed By <span>Inasync-io</span></p>
       </div>
     </div>
   );
